@@ -1,0 +1,1 @@
+# This is a project demostrating how to use runbooks to create regular tasks for scaling up/down Azure Database
